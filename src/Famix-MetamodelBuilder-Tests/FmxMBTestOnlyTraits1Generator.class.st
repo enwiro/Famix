@@ -34,7 +34,7 @@ FmxMBTestOnlyTraits1Generator class >> packageName [
 
 { #category : #accessing }
 FmxMBTestOnlyTraits1Generator class >> prefix [
-	^ #FmxMBTestOnlyTraits1Generator
+	^ #FmxMB
 ]
 
 { #category : #definition }
